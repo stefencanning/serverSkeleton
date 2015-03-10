@@ -1,0 +1,18 @@
+﻿  PacketStream.cpp
+  networking.cpp
+c:\users\stefen\documents\github\serverskeleton\server\server\networking.cpp(10): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\stefen\documents\github\serverskeleton\server\server\networking.cpp(29): warning C4018: '<' : signed/unsigned mismatch
+c:\users\stefen\documents\github\serverskeleton\server\server\networking.cpp(37): warning C4018: '<' : signed/unsigned mismatch
+c:\users\stefen\documents\github\serverskeleton\server\server\networking.cpp(50): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+c:\users\stefen\documents\github\serverskeleton\server\server\networking.cpp(51): warning C4018: '<' : signed/unsigned mismatch
+  Net.cpp
+c:\users\stefen\documents\github\serverskeleton\server\server\net.cpp(144): warning C4101: 'bytes_sent' : unreferenced local variable
+  Main.cpp
+c:\users\stefen\documents\github\serverskeleton\server\server\main.cpp(130): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\stefen\documents\github\serverskeleton\server\server\main.cpp(153): warning C4018: '<' : signed/unsigned mismatch
+c:\users\stefen\documents\github\serverskeleton\server\server\main.cpp(163): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
+  Generating Code...
+  TagProject.vcxproj -> C:\Users\stefen\Documents\GitHub\serverSkeleton\server\Debug\server.exe
