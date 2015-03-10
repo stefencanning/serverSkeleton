@@ -129,7 +129,7 @@ int main()
 	time_t t =time(0);
 	srand(t);
 	n = new Net();
-	network = networking(retval,n);
+	network = networking("23.97.140.22",n);
 
 	while(!quit) //While a player has not quit the game -- Game Loop
 	{
